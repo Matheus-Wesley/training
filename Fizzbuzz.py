@@ -12,5 +12,6 @@ for fizzbuzz in range(100):
 
 #https://dojopuzzles.com/problems/fizzbuzz/
 #treinando git
+#adionando uma alteração
     
 
